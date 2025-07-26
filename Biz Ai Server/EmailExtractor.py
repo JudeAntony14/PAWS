@@ -275,6 +275,3 @@ if __name__ == "__main__":
     extractor.EMAIL_FOLDERS = EMAIL_FOLDERS
 
     extractor.run()
-
-
-#"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"
