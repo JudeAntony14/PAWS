@@ -35,9 +35,9 @@ class RFQComposer:
         self.current_rfq_number = self.load_current_rfq_number() or 8790
         
         # Email configuration
-        self.recipient = "artisticgems.nfts@gmail.com"
-        self.sender = "cooliekid000@gmail.com"
-        self.password = "uifi lusy ovgp srpv"
+        self.recipient = "example.nfts@gmail.com"
+        self.sender = "example@gmail.com"
+        self.password = ""
         
         # Ensure drafts directory exists
         self.drafts_dir.mkdir(parents=True, exist_ok=True)
@@ -47,7 +47,6 @@ class RFQComposer:
         
         # Path to processed RFQs tracking file
         self.processed_rfqs_file = Path('clientRFQnumbers.txt')
-        # Create the tracking file if it doesn't exist
         if not self.processed_rfqs_file.exists():
             with open(self.processed_rfqs_file, 'w'):
                 pass
@@ -55,7 +54,6 @@ class RFQComposer:
     def load_current_rfq_number(self):
         """Load the current RFQ number from a file."""
         try:
-            # Use Path for proper path handling
             file_path = Path('current_rfq_number.txt')
             if not file_path.exists():
                 return None
@@ -70,7 +68,6 @@ class RFQComposer:
     def save_current_rfq_number(self):
         """Save the current RFQ number to a file."""
         try:
-            # Use Path for proper path handling
             file_path = Path('current_rfq_number.txt')
             with open(file_path, 'w') as f:
                 f.write(str(self.current_rfq_number))
@@ -144,7 +141,6 @@ class RFQComposer:
             with open(email_file, 'r', encoding='utf-8') as f:
                 content = f.read()
                 
-            # Extract everything after "Body:"
             if "Body:" in content:
                 body = content.split("Body:", 1)[1].strip()
                 return body
