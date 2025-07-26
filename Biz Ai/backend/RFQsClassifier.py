@@ -6,13 +6,13 @@ from pathlib import Path
 import logging
 from datetime import datetime
 from db_utils import DatabaseManager
-#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
+
 
 class RFQsProcessor:
     def __init__(self):
         # API Configuration
         self.API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-mnli"
-        self.headers = {"Authorization": "Bearer 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"}
+        self.headers = {"Authorization": "PLACEHOLDER FOR API TOKEN"}
 
         # Directory paths
         self.source_dir = Path("C:/ClientEmail")
