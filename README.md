@@ -1,80 +1,44 @@
-PAWS - Personalized Automated Workflow System
-
-Email Workflow Assistant for Businesses specifically B2B Trading companies.
+PAWS – Personalized Automated Workflow System  
 Hackathon Submission – WCHL25
 
-ABSTRACT
- 
-PAWS (Personalized Automated Workflow System) is an AI-powered assistant built to automate and streamline business email handling at scale. Designed for small-to-mid-sized teams managing repetitive email tasks—like sourcing, logistics, and customer coordination—it fetches emails from Gmail, classifies them using AI logic, and organizes all content locally for team-wide access.
+Team  
+- 2-member team  
+- Backend: Email classification logic, storage system, and server coordination  
+- Frontend: Desktop GUI built using Electron for seamless multi-PC operations  
 
-Whether it's recognizing RFQs, invoices, or linking a supplier quote to a client RFQ, PAWS does it automatically—saving hours of manual work each day. It's ideal for teams working across multiple shared PCs and dealing with high email volumes.
-The server PC acts as the 'manager' by distributing work between client PCs in the office and also serves as a backup and recovery system, ensuring that in case of unexpected issues or failures, no data is lost and work can continue smoothly without major disruption.
+Overview  
+PAWS is an AI-powered email workflow assistant built for small-to-mid-sized B2B trading and logistics teams. It automates the repetitive process of handling business emails – fetching, classifying, storing, and distributing them across team PCs using a centralized server.  
 
-ICP integration is already live for decentralized storage and secure identity—laying the groundwork for even smarter and more collaborative workflows in the near future.
+With built-in support for decentralized storage and identity via Internet Computer Protocol (ICP), PAWS is future-ready for secure syncing, team collaboration, and remote access in distributed office setups. The server PC manages coordination, load balancing, and recovery to ensure no data is lost even during failures or unexpected interruptions.
 
-WHAT IT DOES:
+What It Does  
+- Connects to Gmail via IMAP  
+- Classifies emails into categories: RFQs, Quotations, Invoices, Deliveries, Bank, and Spam  
+- Detects and links reference numbers across email chains (e.g., RFQ ↔ Supplier Quote ↔ PO)  
+- Stores emails as readable `.txt` files with attachments  
+- Uses a central server to sync folders across multiple PCs  
+- Logs all actions locally for traceability  
+- ICP-ready: identity handling and decentralized backup integrated  
 
-Connects to Gmail via IMAP
+Tech Stack  
+- Python – Core automation logic  
+- Electron – GUI for client machines  
+- SQLite – Local DB for mapping reference numbers  
+- IMAP – Email access  
+- Regex + ML – Email classification engine  
+- ICP –  
+  - Decentralized file storage  
+  - Identity/authentication layer  
+  - Future support for shared dashboards and remote syncing  
 
-Uses AI/ML rules to classify emails into:
+Built For  
+- B2B trading companies and sourcing teams  
+- Back offices handling structured email workflows  
+- Logistics coordinators managing multi-step chains  
+- Offices with 5–10 employees using shared computers  
+- Teams seeking automation without costly SaaS tools  
 
-RFQs, Quotations, Invoices, Deliveries, Bank emails and Spam.
-
-Detects and links reference numbers across email chains
-
-Saves emails as readable .txt files with attachments in proper folders
-
-Syncs across multiple PCs in the office setup
-
-Logs everything locally for transparency
-
-Connects to Gmail via IMAP
-
-Classifies using regex and ML-based logic
-
-Uses SQLite to map reference numbers (e.g. RFQ ↔ Quote ↔ PO)
-
-Ready for ICP-based storage/identity systems
-
-TECH STACK
-
-Python – Core logic and automation
-
-Electron – Desktop interface for client PCs
-
-SQLite – Local reference database
-
-IMAP – Gmail access and parsing
-
-Regex + ML heuristics – Classification engine
-
-ICP (Internet Computer Protocol) –
-
-Decentralized storage
-
-Identity management (already integrated)
-
-Secure syncing between nodes
-
-BUILT FOR:
-
-Sourcing & trading companies
-
-Logistics teams handling multi-step email trails
-
-Back offices processing repetitive document-heavy tasks
-
-Small-to-medium businesses with 5–10 employees using shared PCs
-
-Teams that want smart automation without expensive SaaS tools
-
-NEXT STEP:
-
-EnhanceD UI
-
-Smarter ML models
-
-Expanded ICP integrations (e.g., shared dashboard, decentralized access)
-
-SUMMARY
-PAWS transforms messy email workflows dealt by human employees into an organized, AI-driven system that can be tweaked to individual company requirements for real-world teams. 
+Next Steps  
+- Smarter ML classification with less manual rule-tuning  
+- Enhanced UI for better user experience  
+- Deeper ICP integration (shared dashboards, mobile syncing)
