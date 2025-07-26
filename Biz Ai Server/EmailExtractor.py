@@ -23,7 +23,6 @@ Structured Email Storage:
 Email data is organized in .txt files, separating headers and body content for easy reference.
 '''
 
-
 import os
 import email
 from imapclient import IMAPClient
@@ -33,10 +32,8 @@ from transformers import BertTokenizer, BertForSequenceClassification
 import torch
 import threading
 
-#bchw lemr nybb mvpf
-# for the tester judealiju@gmail.com
 
-# ICP logging helper (minimal, non-blocking)
+# ICP logging helper
 def icp_log_message(message):
     try:
         from ic.client import Client
@@ -46,7 +43,7 @@ def icp_log_message(message):
         import asyncio
 
         async def send_log():
-            # Update these with your canister/principal info
+            # To be updated with canister info
             canister_id = "<YOUR_CANISTER_ID>"  # Replace after deploy
             url = "http://127.0.0.1:4943"  # Local replica
             agent = Agent(
@@ -56,8 +53,7 @@ def icp_log_message(message):
             await agent.fetch_root_key()
             arg = encode([Types.Text], [message])
             await agent.update_raw(canister_id, "record", arg)
-
-        # Run in background thread to not block email processing
+            
         threading.Thread(target=lambda: asyncio.run(send_log()), daemon=True).start()
     except Exception as e:
         print(f"[ICP LOGGING ERROR] {e}")
@@ -68,8 +64,8 @@ class GMAIL_EXTRACTOR():
         self.initializeVariables()
 
     def initializeVariables(self):
-        self.usr = "cooliekid000@gmail.com"
-        self.pwd = "uifi lusy ovgp srpv"
+        self.usr = "example@gmail.com"
+        self.pwd = ""
         self.mail = None
         self.mailbox = ""
         self.parsed_message_ids = set()  # To track processed emails
@@ -191,7 +187,7 @@ class GMAIL_EXTRACTOR():
 
             print(f"Email saved as {txt_filename} in {dest_folder}")
 
-            # Log to ICP canister (non-blocking, minimal)
+            # Log to ICP canister
             icp_log_message(f"Processed Email ID: {message_id}")
 
             attachment_index = 1
@@ -250,16 +246,16 @@ class GMAIL_EXTRACTOR():
 
 if __name__ == "__main__":
     CLIENT_EMAILS = [
-        'judealiju@gmail.com',
-        'jude.chirayathu@gmail.com'
+        'example@gmail.com',
+        'example@gmail.com'
     ]
     SUPPLIER_EMAILS = [
-        'artisticgems.nfts@gmail.com',
-        'ejcorporations@gmail.com'
+        'example@gmail.com',
+        'example@gmail.com'
     ]
     BANK_EMAILS = [
-        'spamvp3785@gmail.com',
-        'eldjubsnss1122@gmail.com'
+        'example@gmail.com',
+        'example@gmail.com'
     ]
     EMAIL_FOLDERS = {
         'client': r'C:\ClientEmail',
