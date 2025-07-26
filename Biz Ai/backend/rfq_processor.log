@@ -1,0 +1,1073 @@
+2025-05-14 17:05:50,933 - INFO - Found 15 email files to process
+2025-05-14 17:05:51,627 - INFO - API Response for text: Dear V2,
+
+
+
+See attached requisition for quote.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'Dear V2,\n\n\n\nSee attached requisition for quote.\n\n\n\nThanks & Regards\n\n', 'labels': ['request for quotation', 'quote request', 'price inquiry', 'other communication'], 'scores': [0.5738354325294495, 0.3788505792617798, 0.02815432660281658, 0.019159581512212753]}
+2025-05-14 17:05:51,634 - INFO - Moved email file: RFQ2026.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2026
+2025-05-14 17:05:51,650 - INFO - Successfully processed RFQ: ClientEmail0001.txt
+2025-05-14 17:05:52,353 - INFO - API Response for text: Dear Team,
+
+
+
+See attached for quote.
+
+
+
+Regards, Nine
+
+... -> {'sequence': 'Dear Team,\n\n\n\nSee attached for quote.\n\n\n\nRegards, Nine\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5849005579948425, 0.3321646451950073, 0.0581761971116066, 0.024758627638220787]}
+2025-05-14 17:05:52,359 - INFO - Moved email file: 2027_Laptops.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2027_Laptops
+2025-05-14 17:05:52,377 - INFO - Successfully processed RFQ: ClientEmail0002.txt
+2025-05-14 17:05:52,995 - INFO - API Response for text: Roy,
+
+
+
+See attached requisition for quote.
+
+
+
+Regards,
+
+... -> {'sequence': 'Roy,\n\n\n\nSee attached requisition for quote.\n\n\n\nRegards,\n\n', 'labels': ['request for quotation', 'quote request', 'price inquiry', 'other communication'], 'scores': [0.5315499305725098, 0.4000486135482788, 0.0523708239197731, 0.016030607745051384]}
+2025-05-14 17:05:53,004 - INFO - Moved email file: RFQ2028.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2028
+2025-05-14 17:05:53,027 - INFO - Successfully processed RFQ: ClientEmail0003.txt
+2025-05-14 17:05:53,703 - INFO - API Response for text: Dear Team,
+
+
+
+See attached for quote.
+
+
+
+TD
+
+... -> {'sequence': 'Dear Team,\n\n\n\nSee attached for quote.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'quote request', 'price inquiry', 'other communication'], 'scores': [0.5841582417488098, 0.3183133602142334, 0.05060004070401192, 0.04692841321229935]}
+2025-05-14 17:05:53,709 - INFO - Moved email file: 2029_Saltwater_Pump.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2029_Saltwater_Pump
+2025-05-14 17:05:53,710 - INFO - Moved attachment: 2029_Saltwater_Pump_Attachment(1).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2029_Saltwater_Pump\attachments
+2025-05-14 17:05:53,710 - INFO - Moved attachment: 2029_Saltwater_Pump_Attachment(2).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2029_Saltwater_Pump\attachments
+2025-05-14 17:05:53,749 - INFO - Moved attachment: 2029_Saltwater_Pump_Attachment(3).docx -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2029_Saltwater_Pump\attachments
+2025-05-14 17:05:53,750 - INFO - Moved attachment: 2029_Saltwater_Pump_Attachment(4).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2029_Saltwater_Pump\attachments
+2025-05-14 17:05:53,766 - INFO - Successfully processed RFQ: ClientEmail0004.txt
+2025-05-14 17:05:54,429 - INFO - API Response for text: Dear Team,
+
+
+
+See requisition and provide quote.
+
+
+
+TD
+
+... -> {'sequence': 'Dear Team,\n\n\n\nSee requisition and provide quote.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'quote request', 'price inquiry', 'other communication'], 'scores': [0.515954852104187, 0.3300536572933197, 0.12069299072027206, 0.0332985483109951]}
+2025-05-14 17:05:54,435 - INFO - Moved email file: items2030.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2030
+2025-05-14 17:05:54,435 - INFO - Moved attachment: items2030_Attachment(1).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2030\attachments
+2025-05-14 17:05:54,441 - INFO - Moved attachment: items2030_Attachment(2).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2030\attachments
+2025-05-14 17:05:54,460 - INFO - Successfully processed RFQ: ClientEmail0005.txt
+2025-05-14 17:05:55,163 - INFO - API Response for text: Roy,
+
+
+
+See requisition and provide quote.
+
+
+
+Regards,
+
+... -> {'sequence': 'Roy,\n\n\n\nSee requisition and provide quote.\n\n\n\nRegards,\n\n', 'labels': ['request for quotation', 'quote request', 'price inquiry', 'other communication'], 'scores': [0.5278125405311584, 0.3442963659763336, 0.09698140621185303, 0.03090967983007431]}
+2025-05-14 17:05:55,163 - INFO - Moved email file: RFQ2031.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2031
+2025-05-14 17:05:55,171 - INFO - Moved attachment: RFQ2031_Attachment(1).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2031\attachments
+2025-05-14 17:05:55,198 - INFO - Moved attachment: RFQ2031_Attachment(2).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2031\attachments
+2025-05-14 17:05:55,200 - INFO - Moved attachment: RFQ2031_Attachment(3).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2031\attachments
+2025-05-14 17:05:55,221 - INFO - Moved attachment: RFQ2031_Attachment(4).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2031\attachments
+2025-05-14 17:05:55,223 - INFO - Moved attachment: RFQ2031_Attachment(5).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2031\attachments
+2025-05-14 17:05:55,237 - INFO - Successfully processed RFQ: ClientEmail0006.txt
+2025-05-14 17:05:55,884 - INFO - API Response for text: Dear V2,
+
+
+
+We need Tables and Steel. Kindly quote.
+
+
+
+TD
+
+... -> {'sequence': 'Dear V2,\n\n\n\nWe need Tables and Steel. Kindly quote.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5364912748336792, 0.27723217010498047, 0.1290547400712967, 0.057221829891204834]}
+2025-05-14 17:05:55,889 - INFO - Moved email file: Requisition2032.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\Requisition2032
+2025-05-14 17:05:55,914 - INFO - Moved attachment: Requisition2032_Attachment(1).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\Requisition2032\attachments
+2025-05-14 17:05:56,169 - INFO - Moved attachment: Requisition2032_Attachment(2).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\Requisition2032\attachments
+2025-05-14 17:05:56,184 - INFO - Successfully processed RFQ: ClientEmail0007.txt
+2025-05-14 17:05:56,799 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:05:56,799 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:05:57,409 - INFO - API Response for text: Roy,
+
+
+
+Please quote Chairs off LED TV.
+
+
+
+TD
+
+... -> {'sequence': 'Roy,\n\n\n\nPlease quote Chairs off LED TV.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.571419894695282, 0.36271998286247253, 0.051766153424978256, 0.014093934558331966]}
+2025-05-14 17:05:57,414 - INFO - Moved email file: 2034_LED_TV.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2034_LED_TV
+2025-05-14 17:05:57,441 - INFO - Successfully processed RFQ: ClientEmail0009.txt
+2025-05-14 17:05:58,026 - INFO - API Response for text: Dear Team,
+
+
+
+Please quote Steel off Sneakers.
+
+
+
+TD
+
+... -> {'sequence': 'Dear Team,\n\n\n\nPlease quote Steel off Sneakers.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5912775993347168, 0.3358495831489563, 0.04528895020484924, 0.02758382260799408]}
+2025-05-14 17:05:58,034 - INFO - Moved email file: RFQ2035.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2035
+2025-05-14 17:05:58,035 - INFO - Moved attachment: RFQ2035_Attachment(1).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2035\attachments
+2025-05-14 17:05:58,037 - INFO - Moved attachment: RFQ2035_Attachment(2).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2035\attachments
+2025-05-14 17:05:58,040 - INFO - Moved attachment: RFQ2035_Attachment(3).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2035\attachments
+2025-05-14 17:05:58,062 - INFO - Moved attachment: RFQ2035_Attachment(4).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2035\attachments
+2025-05-14 17:05:58,090 - INFO - Moved attachment: RFQ2035_Attachment(5).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2035\attachments
+2025-05-14 17:05:58,105 - INFO - Successfully processed RFQ: ClientEmail0010.txt
+2025-05-14 17:05:58,801 - INFO - API Response for text: Dear Roy,
+
+
+
+We need Aux Engine and Chairs. Kindly quote.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'Dear Roy,\n\n\n\nWe need Aux Engine and Chairs. Kindly quote.\n\n\n\nThanks & Regards\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5113824605941772, 0.3268035650253296, 0.10784115642309189, 0.05397285521030426]}
+2025-05-14 17:05:58,806 - INFO - Moved email file: 2025_Bolts.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2025_Bolts
+2025-05-14 17:05:58,833 - INFO - Successfully processed RFQ: ClientEmail0011.txt
+2025-05-14 17:05:59,774 - INFO - API Response for text: Roy,
+
+
+
+Quote attached.
+
+
+
+TD
+
+... -> {'sequence': 'Roy,\n\n\n\nQuote attached.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'other communication', 'quote request', 'price inquiry'], 'scores': [0.41986075043678284, 0.28523778915405273, 0.2441415637731552, 0.05075991526246071]}
+2025-05-14 17:05:59,774 - INFO - Moved email file: items2026.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2026
+2025-05-14 17:05:59,774 - INFO - Moved attachment: items2026_Attachment(1).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2026\attachments
+2025-05-14 17:05:59,784 - INFO - Moved attachment: items2026_Attachment(2).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2026\attachments
+2025-05-14 17:05:59,786 - INFO - Moved attachment: items2026_Attachment(3).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2026\attachments
+2025-05-14 17:05:59,786 - INFO - Moved attachment: items2026_Attachment(4).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2026\attachments
+2025-05-14 17:05:59,801 - INFO - Successfully processed RFQ: ClientEmail0012.txt
+2025-05-14 17:06:00,388 - INFO - API Response for text: Dear Roy,
+
+
+
+See below for quote.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'Dear Roy,\n\n\n\nSee below for quote.\n\n\n\nThanks & Regards\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5158344507217407, 0.4071327745914459, 0.061073772609233856, 0.01595889963209629]}
+2025-05-14 17:06:00,388 - INFO - Moved email file: items2027.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2027
+2025-05-14 17:06:00,423 - INFO - Moved attachment: items2027_Attachment(1).docx -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2027\attachments
+2025-05-14 17:06:00,443 - INFO - Moved attachment: items2027_Attachment(2).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2027\attachments
+2025-05-14 17:06:00,463 - INFO - Moved attachment: items2027_Attachment(3).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2027\attachments
+2025-05-14 17:06:00,477 - INFO - Successfully processed RFQ: ClientEmail0013.txt
+2025-05-14 17:06:01,109 - INFO - API Response for text: Dear Roy,
+
+
+
+We need Alweiser Pump and Steel. Kindly quote.
+
+
+
+Regards,
+
+... -> {'sequence': 'Dear Roy,\n\n\n\nWe need Alweiser Pump and Steel. Kindly quote.\n\n\n\nRegards,\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5058850646018982, 0.2950951159000397, 0.11393611878156662, 0.08508364856243134]}
+2025-05-14 17:06:01,119 - INFO - Moved email file: items2028.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2028
+2025-05-14 17:06:01,145 - INFO - Successfully processed RFQ: ClientEmail0014.txt
+2025-05-14 17:06:01,794 - INFO - API Response for text: Roy,
+
+
+
+See requisition and provide quote.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'Roy,\n\n\n\nSee requisition and provide quote.\n\n\n\nThanks & Regards\n\n', 'labels': ['request for quotation', 'quote request', 'price inquiry', 'other communication'], 'scores': [0.5631445646286011, 0.32090339064598083, 0.08495040237903595, 0.031001679599285126]}
+2025-05-14 17:06:01,798 - INFO - Moved email file: Requisition2029.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\Requisition2029
+2025-05-14 17:06:01,800 - INFO - Moved attachment: Requisition2029_Attachment(1).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\Requisition2029\attachments
+2025-05-14 17:06:01,831 - INFO - Successfully processed RFQ: ClientEmail0015.txt
+2025-05-14 17:06:22,151 - INFO - Found 1 email files to process
+2025-05-14 17:06:22,759 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:06:22,759 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:06:44,030 - INFO - Found 1 email files to process
+2025-05-14 17:06:44,741 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:06:44,741 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:07:06,235 - INFO - Found 1 email files to process
+2025-05-14 17:07:06,906 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:07:06,906 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:07:27,763 - INFO - Found 1 email files to process
+2025-05-14 17:07:28,395 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:07:28,395 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:07:48,952 - INFO - Found 1 email files to process
+2025-05-14 17:07:49,581 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:07:49,581 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:08:12,386 - INFO - Found 1 email files to process
+2025-05-14 17:08:13,115 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:08:13,115 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:08:35,646 - INFO - Found 1 email files to process
+2025-05-14 17:08:39,848 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:08:39,848 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:09:00,064 - INFO - Found 1 email files to process
+2025-05-14 17:09:00,946 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:09:00,946 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:09:21,377 - INFO - Found 1 email files to process
+2025-05-14 17:09:22,167 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:09:22,167 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:09:42,996 - INFO - Found 1 email files to process
+2025-05-14 17:09:43,811 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:09:43,811 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:10:04,893 - INFO - Found 1 email files to process
+2025-05-14 17:10:05,594 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:10:05,594 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-05-14 17:10:27,862 - INFO - Found 1 email files to process
+2025-05-14 17:10:28,605 - INFO - API Response for text: V2,
+
+
+
+Check stock for Steel and Chairs.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nCheck stock for Steel and Chairs.\n\n\n\nTD\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.34252452850341797, 0.2621764540672302, 0.23132877051830292, 0.1639702469110489]}
+2025-05-14 17:10:28,606 - INFO - Not an RFQ: ClientEmail0008.txt
+2025-07-14 20:14:18,514 - INFO - Found 11 email files to process
+2025-07-14 20:14:19,712 - INFO - API Response for text: Dear Roy,
+
+
+
+Check stock for Alweiser Pump and Tables.
+
+
+
+Regards,
+
+... -> {'sequence': 'Dear Roy,\n\n\n\nCheck stock for Alweiser Pump and Tables.\n\n\n\nRegards,\n\n', 'labels': ['quote request', 'other communication', 'price inquiry', 'request for quotation'], 'scores': [0.5813252925872803, 0.1737782061100006, 0.1576175093650818, 0.0872790515422821]}
+2025-07-14 20:14:19,718 - INFO - Moved email file: 2028_Aux_Engine.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2028_Aux_Engine
+2025-07-14 20:14:19,752 - INFO - Moved attachment: 2028_Aux_Engine_Attachment(1).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2028_Aux_Engine\attachments
+2025-07-14 20:14:19,757 - INFO - Moved attachment: 2028_Aux_Engine_Attachment(2).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2028_Aux_Engine\attachments
+2025-07-14 20:14:19,772 - INFO - Successfully processed RFQ: ClientEmail0001.txt
+2025-07-14 20:14:20,483 - INFO - API Response for text: Dear Team,
+
+
+
+See attached for quote.
+
+
+
+TD
+
+... -> {'sequence': 'Dear Team,\n\n\n\nSee attached for quote.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'quote request', 'price inquiry', 'other communication'], 'scores': [0.5841582417488098, 0.3183133602142334, 0.05060004070401192, 0.04692841321229935]}
+2025-07-14 20:14:20,517 - INFO - Moved email file: RFQ2029.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2029
+2025-07-14 20:14:20,522 - INFO - Moved attachment: RFQ2029_Attachment(1).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2029\attachments
+2025-07-14 20:14:20,574 - INFO - Moved attachment: RFQ2029_Attachment(2).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2029\attachments
+2025-07-14 20:14:20,577 - INFO - Moved attachment: RFQ2029_Attachment(3).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2029\attachments
+2025-07-14 20:14:20,580 - INFO - Moved attachment: RFQ2029_Attachment(4).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2029\attachments
+2025-07-14 20:14:20,604 - INFO - Successfully processed RFQ: ClientEmail0002.txt
+2025-07-14 20:14:21,370 - INFO - API Response for text: V2,
+
+
+
+See attached for quote.
+
+
+
+TD
+
+... -> {'sequence': 'V2,\n\n\n\nSee attached for quote.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5485959053039551, 0.27549493312835693, 0.09696616232395172, 0.07894304394721985]}
+2025-07-14 20:14:21,374 - INFO - Moved email file: RFQ2030.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2030
+2025-07-14 20:14:21,376 - INFO - Moved attachment: RFQ2030_Attachment(1).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2030\attachments
+2025-07-14 20:14:21,402 - INFO - Moved attachment: RFQ2030_Attachment(2).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2030\attachments
+2025-07-14 20:14:21,427 - INFO - Moved attachment: RFQ2030_Attachment(3).docx -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2030\attachments
+2025-07-14 20:14:21,430 - INFO - Moved attachment: RFQ2030_Attachment(4).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2030\attachments
+2025-07-14 20:14:21,432 - INFO - Moved attachment: RFQ2030_Attachment(5).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2030\attachments
+2025-07-14 20:14:21,448 - INFO - Successfully processed RFQ: ClientEmail0003.txt
+2025-07-14 20:14:22,311 - INFO - API Response for text: Roy,
+
+
+
+See attached requisition for quote.
+
+
+
+TD
+
+... -> {'sequence': 'Roy,\n\n\n\nSee attached requisition for quote.\n\n\n\nTD\n\n', 'labels': ['request for quotation', 'quote request', 'price inquiry', 'other communication'], 'scores': [0.48694801330566406, 0.40684980154037476, 0.09144982695579529, 0.014752383343875408]}
+2025-07-14 20:14:22,322 - INFO - Moved email file: items2031.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2031
+2025-07-14 20:14:22,328 - INFO - Moved attachment: items2031_Attachment(1).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2031\attachments
+2025-07-14 20:14:22,337 - INFO - Moved attachment: items2031_Attachment(2).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2031\attachments
+2025-07-14 20:14:22,347 - INFO - Moved attachment: items2031_Attachment(3).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2031\attachments
+2025-07-14 20:14:22,351 - INFO - Moved attachment: items2031_Attachment(4).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\items2031\attachments
+2025-07-14 20:14:22,367 - INFO - Successfully processed RFQ: ClientEmail0004.txt
+2025-07-14 20:14:23,657 - INFO - API Response for text: Dear Team,
+
+
+
+Please quote Laptops off Bolts.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'Dear Team,\n\n\n\nPlease quote Laptops off Bolts.\n\n\n\nThanks & Regards\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5623834729194641, 0.3713589608669281, 0.057539504021406174, 0.008718013763427734]}
+2025-07-14 20:14:23,661 - INFO - Moved email file: 2032_Sneakers.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2032_Sneakers
+2025-07-14 20:14:23,775 - INFO - Moved attachment: 2032_Sneakers_Attachment(1).pdf -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2032_Sneakers\attachments
+2025-07-14 20:14:23,807 - INFO - Moved attachment: 2032_Sneakers_Attachment(2).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2032_Sneakers\attachments
+2025-07-14 20:14:23,837 - INFO - Moved attachment: 2032_Sneakers_Attachment(3).docx -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2032_Sneakers\attachments
+2025-07-14 20:14:23,839 - INFO - Moved attachment: 2032_Sneakers_Attachment(4).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2032_Sneakers\attachments
+2025-07-14 20:14:23,842 - INFO - Moved attachment: 2032_Sneakers_Attachment(5).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2032_Sneakers\attachments
+2025-07-14 20:14:23,854 - INFO - Successfully processed RFQ: ClientEmail0005.txt
+2025-07-14 20:14:25,202 - INFO - API Response for text: Dear V2,
+
+
+
+Please quote Chairs off Saltwater Pump.
+
+
+
+Regards, Nine
+
+... -> {'sequence': 'Dear V2,\n\n\n\nPlease quote Chairs off Saltwater Pump.\n\n\n\nRegards, Nine\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5963208675384521, 0.3318525552749634, 0.06437184661626816, 0.007454699836671352]}
+2025-07-14 20:14:25,258 - INFO - Moved email file: Requisition2033.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\Requisition2033
+2025-07-14 20:14:25,273 - INFO - Moved attachment: Requisition2033_Attachment(1).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\Requisition2033\attachments
+2025-07-14 20:14:25,283 - INFO - Moved attachment: Requisition2033_Attachment(2).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\Requisition2033\attachments
+2025-07-14 20:14:25,343 - INFO - Successfully processed RFQ: ClientEmail0006.txt
+2025-07-14 20:14:25,978 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:14:25,978 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:14:27,207 - INFO - API Response for text: Dear V2,
+
+
+
+We need Saltwater Pump and Tables. Kindly quote.
+
+
+
+Regards, Nine
+
+... -> {'sequence': 'Dear V2,\n\n\n\nWe need Saltwater Pump and Tables. Kindly quote.\n\n\n\nRegards, Nine\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.5084311962127686, 0.2911805212497711, 0.13944099843502045, 0.06094729155302048]}
+2025-07-14 20:14:27,211 - INFO - Moved email file: RFQ2035.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2035
+2025-07-14 20:14:27,235 - INFO - Successfully processed RFQ: ClientEmail0008.txt
+2025-07-14 20:14:29,986 - INFO - API Response for text: Dear Team,
+
+
+
+Quote attached.
+
+
+
+Regards,
+
+... -> {'sequence': 'Dear Team,\n\n\n\nQuote attached.\n\n\n\nRegards,\n\n', 'labels': ['request for quotation', 'quote request', 'other communication', 'price inquiry'], 'scores': [0.41805315017700195, 0.3363751173019409, 0.22662341594696045, 0.018948327749967575]}
+2025-07-14 20:14:29,990 - INFO - Moved email file: 2036_Tables.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2036_Tables
+2025-07-14 20:14:29,992 - INFO - Moved attachment: 2036_Tables_Attachment(1).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\2036_Tables\attachments
+2025-07-14 20:14:30,005 - INFO - Successfully processed RFQ: ClientEmail0009.txt
+2025-07-14 20:14:31,633 - INFO - API Response for text: Dear V2,
+
+
+
+Give best price.
+
+
+
+Regards, Nine
+
+... -> {'sequence': 'Dear V2,\n\n\n\nGive best price.\n\n\n\nRegards, Nine\n\n', 'labels': ['quote request', 'price inquiry', 'request for quotation', 'other communication'], 'scores': [0.3884657621383667, 0.28689828515052795, 0.17644265294075012, 0.14819325506687164]}
+2025-07-14 20:14:31,645 - INFO - Moved email file: RFQ2037.txt -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2037
+2025-07-14 20:14:31,647 - INFO - Moved attachment: RFQ2037_Attachment(1).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2037\attachments
+2025-07-14 20:14:31,656 - INFO - Moved attachment: RFQ2037_Attachment(2).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2037\attachments
+2025-07-14 20:14:31,669 - INFO - Moved attachment: RFQ2037_Attachment(3).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2037\attachments
+2025-07-14 20:14:31,673 - INFO - Moved attachment: RFQ2037_Attachment(4).jpeg -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2037\attachments
+2025-07-14 20:14:31,684 - INFO - Moved attachment: RFQ2037_Attachment(5).png -> C:\Users\judea\OneDrive\Desktop\ProcessedRFQs\RFQ2037\attachments
+2025-07-14 20:14:31,705 - INFO - Successfully processed RFQ: ClientEmail0010.txt
+2025-07-14 20:14:32,423 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:14:32,424 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:15:09,725 - INFO - Found 2 email files to process
+2025-07-14 20:15:10,448 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:15:10,448 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:15:11,346 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:15:11,347 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:15:19,620 - INFO - Found 2 email files to process
+2025-07-14 20:15:20,550 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:15:20,550 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:15:21,157 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:15:21,158 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:15:27,520 - INFO - Found 2 email files to process
+2025-07-14 20:16:04,463 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:16:04,464 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:16:06,955 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:16:06,955 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:16:12,377 - INFO - Found 2 email files to process
+2025-07-14 20:16:13,763 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:16:13,764 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:16:14,490 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:16:14,491 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:16:20,285 - INFO - Found 2 email files to process
+2025-07-14 20:16:21,213 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:16:21,213 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:16:22,020 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:16:22,020 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:16:30,219 - INFO - Found 2 email files to process
+2025-07-14 20:16:31,341 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:16:31,342 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:16:32,063 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:16:32,064 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:16:38,188 - INFO - Found 2 email files to process
+2025-07-14 20:16:39,830 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:16:39,831 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:16:41,372 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:16:41,373 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:16:47,096 - INFO - Found 2 email files to process
+2025-07-14 20:16:49,062 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:16:49,062 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:16:49,968 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:16:49,969 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:16:55,799 - INFO - Found 2 email files to process
+2025-07-14 20:16:56,531 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:16:56,531 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:16:57,570 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:16:57,570 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:17:03,083 - INFO - Found 2 email files to process
+2025-07-14 20:17:03,839 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:17:03,845 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:17:04,551 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:17:04,552 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:17:10,229 - INFO - Found 2 email files to process
+2025-07-14 20:17:11,229 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:17:11,230 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:17:12,285 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:17:12,285 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:17:17,824 - INFO - Found 2 email files to process
+2025-07-14 20:17:25,524 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:17:25,525 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:17:29,248 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:17:29,249 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:17:35,167 - INFO - Found 2 email files to process
+2025-07-14 20:17:35,912 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:17:35,912 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:17:38,290 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:17:38,291 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:17:44,419 - INFO - Found 2 email files to process
+2025-07-14 20:17:45,766 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:17:45,767 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:17:46,591 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:17:46,591 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:17:52,065 - INFO - Found 2 email files to process
+2025-07-14 20:17:52,864 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:17:52,865 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:17:54,019 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:17:54,021 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:17:59,404 - INFO - Found 2 email files to process
+2025-07-14 20:18:00,203 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:18:00,204 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:18:00,818 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:18:00,820 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:18:05,896 - INFO - Found 2 email files to process
+2025-07-14 20:18:06,764 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:18:06,764 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:18:07,818 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:18:07,819 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:18:13,028 - INFO - Found 2 email files to process
+2025-07-14 20:18:13,842 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:18:13,843 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:18:15,009 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:18:15,009 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:18:21,260 - INFO - Found 2 email files to process
+2025-07-14 20:18:22,024 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:18:22,025 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:18:22,742 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:18:22,743 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:18:29,166 - INFO - Found 2 email files to process
+2025-07-14 20:18:29,989 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:18:29,990 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:18:30,702 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:18:30,703 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:18:47,390 - INFO - Found 2 email files to process
+2025-07-14 20:18:59,185 - ERROR - API query failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-14 20:18:59,185 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:19:15,745 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:19:15,745 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:19:21,392 - INFO - Found 2 email files to process
+2025-07-14 20:19:22,328 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:19:22,328 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:19:22,956 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:19:22,957 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:19:28,322 - INFO - Found 2 email files to process
+2025-07-14 20:19:29,305 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:19:29,308 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:19:30,322 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:19:30,323 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:19:35,990 - INFO - Found 2 email files to process
+2025-07-14 20:19:36,987 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:19:36,988 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:19:37,754 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:19:37,756 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:19:43,722 - INFO - Found 2 email files to process
+2025-07-14 20:19:44,566 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:19:44,567 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:19:45,385 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:19:45,386 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:19:51,149 - INFO - Found 2 email files to process
+2025-07-14 20:19:51,759 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:19:51,760 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:19:52,321 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:19:52,322 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:19:57,269 - INFO - Found 2 email files to process
+2025-07-14 20:19:58,062 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:19:58,063 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:19:58,644 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:19:58,645 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:20:04,226 - INFO - Found 2 email files to process
+2025-07-14 20:20:05,104 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:20:05,104 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:20:05,859 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:20:05,860 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:20:11,906 - INFO - Found 2 email files to process
+2025-07-14 20:20:12,818 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:20:12,819 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:20:13,557 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:20:13,557 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:20:19,373 - INFO - Found 2 email files to process
+2025-07-14 20:20:25,823 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:20:25,824 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:20:29,823 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:20:29,823 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:20:36,077 - INFO - Found 2 email files to process
+2025-07-14 20:20:40,260 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:20:40,261 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:20:40,985 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:20:40,987 - INFO - Not an RFQ: ClientEmail0011.txt
+2025-07-14 20:20:46,795 - INFO - Found 2 email files to process
+2025-07-14 20:20:48,853 - INFO - API Response for text: V2,
+
+
+
+Give best price.
+
+
+
+Thanks & Regards
+
+... -> {'sequence': 'V2,\n\n\n\nGive best price.\n\n\n\nThanks & Regards\n\n', 'labels': ['quote request', 'price inquiry', 'other communication', 'request for quotation'], 'scores': [0.31264981627464294, 0.2539066970348358, 0.22649836540222168, 0.20694512128829956]}
+2025-07-14 20:20:48,854 - INFO - Not an RFQ: ClientEmail0007.txt
+2025-07-14 20:20:50,610 - INFO - API Response for text: Testing by kevin
+
+... -> {'sequence': 'Testing by kevin\n\n', 'labels': ['other communication', 'quote request', 'request for quotation', 'price inquiry'], 'scores': [0.4587729871273041, 0.3195034861564636, 0.12136489897966385, 0.10035858303308487]}
+2025-07-14 20:20:50,611 - INFO - Not an RFQ: ClientEmail0011.txt
