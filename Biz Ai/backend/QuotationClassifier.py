@@ -13,7 +13,7 @@ class QuotationProcessor:
         # API Configuration
         self.API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-mnli"
         self.headers = {
-            "Authorization": "Bearer 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"
+            "Authorization": "API TOKEN PLACEHOLDER"
         }
 
         # Directory paths
