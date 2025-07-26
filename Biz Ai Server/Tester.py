@@ -5,8 +5,8 @@ import time
 from email.message import EmailMessage
 
 # Email Credentials
-EMAIL_ADDRESS = "judealiju@gmail.com"
-EMAIL_PASSWORD = "bchw lemr nybb mvpf"
+EMAIL_ADDRESS = "example@gmail.com"
+EMAIL_PASSWORD = ""
 
 # Path to RFQ attachments
 ATTACHMENTS_FOLDER = r"C:\Users\judea\OneDrive\Desktop\GpayIcons"
@@ -85,7 +85,7 @@ def send_email():
 
         msg = EmailMessage()
         msg["From"] = EMAIL_ADDRESS
-        msg["To"] = "cooliekid000@gmail.com"
+        msg["To"] = "example@gmail.com"
         msg["Subject"] = subject
         msg.set_content(email_body)
 
